@@ -1,0 +1,14 @@
+#notfound-bg{
+    width: 80%;
+    height: 90vh;
+    margin: 0 auto;
+    background-image: url("./images/error.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#book-image{
+    width: 200px;
+    margin: 0 auto;
+}
